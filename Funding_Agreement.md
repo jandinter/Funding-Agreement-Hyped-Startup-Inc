@@ -5,8 +5,8 @@ Hyped Startup Inc.
 SAFE 
 (Simple Agreement for Future Equity)
 
-THIS CERTIFIES THAT in exchange for the payment by VC (the “Investor”) of $ 1,000,000.00 (the “Purchase Amount”) on or about 2nd May 2018, Hyped Startup Inc., a Delaware corporation (the “Company”), hereby issues to the Investor the right to certain shares of the Company’s capital stock, subject to the terms set forth below.
-The “Valuation Cap” is $10,000,000.00.  See Section 2 for certain additional defined terms.
+THIS CERTIFIES THAT in exchange for the payment by VC (the “Investor”) of $ 2,000,000.00 (the “Purchase Amount”) on or about 12nd May 2018, Hyped Startup Inc., a Delaware corporation (the “Company”), hereby issues to the Investor the right to certain shares of the Company’s capital stock, subject to the terms set forth below.
+The “Valuation Cap” is $20,000,000.00.  See Section 2 for certain additional defined terms.
 1.  Events
   (a) Equity Financing. If there is an Equity Financing before the expiration or termination of this instrument, the Company will automatically issue to the Investor a number of shares of Standard Preferred Stock equal to the Purchase Amount divided by the price per share of the Standard Preferred Stock, if the pre-money valuation is less than or equal to the Valuation Cap.
   In connection with the issuance of Standard Preferred Stock or Safe Preferred Stock, as applicable, by the Company to the Investor pursuant to this Section 1(a):
