@@ -1,12 +1,12 @@
 THIS INSTRUMENT AND ANY SECURITIES ISSUABLE PURSUANT HERETO HAVE NOT BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933, AS AMENDED (THE “SECURITIES ACT”), OR UNDER THE SECURITIES LAWS OF CERTAIN STATES.  THESE SECURITIES MAY NOT BE OFFERED, SOLD OR OTHERWISE TRANSFERRED, PLEDGED OR HYPOTHECATED EXCEPT AS PERMITTED UNDER THE ACT AND APPLICABLE STATE SECURITIES LAWS PURSUANT TO AN EFFECTIVE REGISTRATION STATEMENT OR AN EXEMPTION THEREFROM.  
 
-[Company Name]
+Hyped Startup Inc.
 
 SAFE 
 (Simple Agreement for Future Equity)
 
-THIS CERTIFIES THAT in exchange for the payment by [Investor Name] (the “Investor”) of $[_____________] (the “Purchase Amount”) on or about [Date of Safe], [Company Name], a [State of Incorporation] corporation (the “Company”), hereby issues to the Investor the right to certain shares of the Company’s capital stock, subject to the terms set forth below.
-The “Valuation Cap” is $[_____________].  See Section 2 for certain additional defined terms.
+THIS CERTIFIES THAT in exchange for the payment by VC (the “Investor”) of $ 1,000,000.00 (the “Purchase Amount”) on or about [Date of Safe], Hyped Startup Inc., a [State of Incorporation] corporation (the “Company”), hereby issues to the Investor the right to certain shares of the Company’s capital stock, subject to the terms set forth below.
+The “Valuation Cap” is $10,000,000.00.  See Section 2 for certain additional defined terms.
 1.  Events
   (a) Equity Financing. If there is an Equity Financing before the expiration or termination of this instrument, the Company will automatically issue to the Investor either: (1) a number of shares of Standard Preferred Stock equal to the Purchase Amount divided by the price per share of the Standard Preferred Stock, if the pre-money valuation is less than or equal to the Valuation Cap; or (2) a number of shares of Safe Preferred Stock equal to the Purchase Amount divided by the Safe Price, if the pre-money valuation is greater than the Valuation Cap.
   In connection with the issuance of Standard Preferred Stock or Safe Preferred Stock, as applicable, by the Company to the Investor pursuant to this Section 1(a):
